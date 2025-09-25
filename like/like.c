@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "like.h"
-//#define YAGE 20
+#define YAGE 20
 
 int main()
 {
